@@ -5,15 +5,14 @@ Bem-vindo ao meu Portfólio Profissional Digital.
 ---
 
 📷 Foto profissional:  
-![Minha Foto](assets/foto-perfil.jpg)  
+<img src="assets/foto-perfil.jpg" alt="Minha Foto" width="200px">
 
 ---
 
 📌 Sobre Mim  
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e Cursando Ciências de Dados
 - 🌎 Inglês avançado  
 - 💼 Proficiente em **Pacote Office (Excel, Word, PowerPoint)**  
-- 🎧 Usuário do headset **HS70 Pro**  
 - 🤝 Boa habilidade de comunicação e interação interpessoal  
 - 💻 Entusiasta de tecnologia, dados e desenvolvimento de software  
 
@@ -21,7 +20,7 @@ Bem-vindo ao meu Portfólio Profissional Digital.
 
 📄 Currículo
 - [LinkedIn](https://www.linkedin.com/in/juan-cassimiro-401682284)  
-- [Baixar meu CV (PDF)]([link-para-o-arquivo](https://acrobat.adobe.com/id/urn:aaid:sc:US:47cf0eef-ef14-4ec1-9faa-0a8319d805a5))
+- [Baixar meu CV](https://acrobat.adobe.com/id/urn:aaid:sc:US:47cf0eef-ef14-4ec1-9faa-0a8319d805a5)
 
 ---
 
@@ -31,29 +30,30 @@ Bem-vindo ao meu Portfólio Profissional Digital.
 
 ---
 
- 🎓 Experiências Acadêmicas
-- Curso: Análise e Desenvolvimento de Sistemas  
-- Projetos acadêmicos:  
-  - 📊 **Dashboard interativo em Power BI** para análise de dados empresariais  
-  - 💻 **Sistema de controle de estoque** (Java + MySQL)  
-  - 📈 **Estudo de Lógica de Programação** aplicado em Inteligência Artificial  
-
----
-
- 💼 Experiências Profissionais
-- Principais atividades:
-  - Desenvolvimento e manutenção de sistemas  
-  - Suporte técnico e análise de requisitos  
-  - Automação de processos em **Python**  
-  - Colaboração em equipe ágil (Scrum/Kanban)  
-
+🎓 Formação Acadêmica  
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
+- Cursando Ciências de Dados
+    
 ---
 
 🛠️ Habilidades
-- Linguagens: Python, Java, SQL  
+- Linguagens: Python, Java
 - Banco de Dados: MySQL, Oracle  
 - Ferramentas: GitHub, Power BI, Excel Avançado  
-- Soft Skills: Comunicação, Trabalho em equipe, Resolução de problemas  
+- Soft Skills: Comunicação, Trabalho em equipe, Resolução de problemas
+
+--- 
+
+  🤝 Competências Pessoais  
+- Comunicação eficaz  
+- Trabalho em equipe  
+- Resolução de problemas
+
+--- 
+
+  📜 Certificações  
+- Java COMPLETO Programação Orientada a Objetos + Projetos – 2022  
+- Formação Cientista de Dados: O Curso Completo – 2023  
 
 ---
 
