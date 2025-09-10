@@ -10,7 +10,7 @@ Bem-vindo ao meu Portfólio Profissional Digital.
 ---
 
 📌 Sobre Mim  
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e Cursando Ciências de Dados
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e **Cursando Ciências de Dados**
 - 🌎 Inglês avançado  
 - 💼 Proficiente em **Pacote Office (Excel, Word, PowerPoint)**  
 - 🤝 Boa habilidade de comunicação e interação interpessoal  
