@@ -10,8 +10,7 @@ Bem-vindo ao meu Portfólio Profissional Digital.
 ---
 
 📌 Sobre Mim  
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e **Cursando Ciências de Dados**
-- 🌎 Inglês avançado  
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e **Cursando Ciências de Dados** 
 - 💼 Proficiente em **Pacote Office (Excel, Word, PowerPoint)**  
 - 🤝 Boa habilidade de comunicação e interação interpessoal  
 - 💻 Entusiasta de tecnologia, dados e desenvolvimento de software  
@@ -58,9 +57,9 @@ Bem-vindo ao meu Portfólio Profissional Digital.
 ---
 
 🚀 Projetos
-- [Sistema de Estoque](em breve)
-- [Análise de Dados com Python](em breve)
-- [Dashboard Power BI](em breve)
+- [Sistema de Estoque] (em breve)
+- [Análise de Dados com Python] (em breve)
+- [Dashboard Power BI] (em breve)
 
 ---
 
